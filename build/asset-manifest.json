@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.533164de.css",
+    "main.js": "/static/js/main.691f6e46.js",
+    "static/media/bgImg.jpg": "/static/media/bgImg.6b41694000bc42608749.jpg",
+    "static/media/banner.png": "/static/media/banner.52bd6a9b59f96f1a1cb0.png",
+    "static/media/baseLine2.png": "/static/media/baseLine2.fbf8d5b9192830519536.png",
+    "static/media/calc2.png": "/static/media/calc2.654a279c203722754967.png",
+    "static/media/mbanner4.jpg": "/static/media/mbanner4.104fd5655bc188f451ef.jpg",
+    "static/media/coin-bash-logo2.png": "/static/media/coin-bash-logo2.9252d5d775252c0ab6d7.png",
+    "static/media/noimage.jpg": "/static/media/noimage.fe8b8cd8275447e5ce04.jpg",
+    "index.html": "/index.html",
+    "main.533164de.css.map": "/static/css/main.533164de.css.map",
+    "main.691f6e46.js.map": "/static/js/main.691f6e46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.533164de.css",
+    "static/js/main.691f6e46.js"
+  ]
+}
